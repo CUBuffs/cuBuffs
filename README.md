@@ -3,6 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cubuffs&label=Profile%20views&color=0e75b6&style=flat" alt="cubuffs" /> </p>
 
+- 🔭 I’m currently exploring the research related to glacier and hydrology **Data Base Management**
+
+- 👯 I’m looking to collaborate on any geospatial/geoscience open source projects **Data Base Management**
+
+- 🤔I’m looking for help with above mentioned topics **Data Base Management**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sacredcelestial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sacredcelestial" height="30" width="40" /></a>

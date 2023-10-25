@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Osita Onyejekwe</h1>
 <h3 align="center">I’m an Assistant Teaching Professor in Computer Science at the University of Colorado Boulder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cubuffs&label=Profile%20views&color=0e75b6&style=flat" alt="cubuffs" /> </p>
+- 🔭 I’m currently exploring the research related to **glacier and hydrology**
 
-- 🔭 I’m currently exploring the research related to glacier and hydrology **Data Base Management**
+- 👯 I’m looking to collaborate on any **geospatial/geoscience open source projects**
 
-- 👯 I’m looking to collaborate on any geospatial/geoscience open source projects **Data Base Management**
+- 🤔I’m looking for help with **above mentioned topics**
 
-- 🤔I’m looking for help with above mentioned topics **Data Base Management**
+- 📫 How to reach me: **twitter: @sacredcelestial, youtube: @iheartscience, linkedin @ositaonyejekwe/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sacredcelestial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sacredcelestial" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ositaonyejekwe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ositaonyejekwe/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/iheartscience" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iheartscience" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@iheartscience" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@iheartscience" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,7 +21,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/cubuffs"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cubuffs" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cubuffs&show_icons=true&locale=en&layout=compact" alt="cubuffs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cubuffs&show_icons=true&locale=en" alt="cubuffs" /></p>

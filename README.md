@@ -1,4 +1,4 @@
-<h3 align="left">नमस्ते (Namaste) 🌳, I'm Osita Onyejekwe</h3>
+### नमस्ते (Namaste)🙏🏻, I'm Osita Onyejekwe! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCOgFy1DCWBFybvXP03RMNXw?style=social)](https://www.youtube.com/channel/UCOgFy1DCWBFybvXP03RMNXw)
 [![Twitter Follow](https://img.shields.io/twitter/follow/sacredcelestial?style=social)](https://twitter.com/sacredcelestial)

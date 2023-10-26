@@ -23,3 +23,8 @@
 <p><a href="https://www.buymeacoffee.com/cubuffs"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="cubuffs" /></a></p><br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cubuffs&show_icons=true&locale=en" alt="cubuffs" /></p>
+
+
+<p dir="auto"><strong>Visitors Count</strong></p>
+
+![Visitor Count](https://profile-counter.glitch.me/{CUBuffs}/count.svg)

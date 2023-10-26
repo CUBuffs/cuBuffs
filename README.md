@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Osita Onyejekwe</h1>
-<h3 align="center">I’m an Assistant Teaching Professor in Computer Science at the University of Colorado Boulder</h3>
+<h1 align="left">Hi 👋, I'm Osita Onyejekwe</h1>
+<h3 align="left">I’m an Assistant Teaching Professor in Computer Science at the University of Colorado Boulder</h3>
 
 - 🔭 I’m currently exploring the research related to **glacier and hydrology**
 

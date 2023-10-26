@@ -1,6 +1,11 @@
 <h3 align="left">नमस्ते (Namaste) 🌳, I'm Osita Onyejekwe</h3>
 
-[<img src="https://camo.githubusercontent.com/dd9207aae8b652b023f5cf40711ad4536a4f9b41ca5136648b6c7dda52421da2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d792d4c696e6b6564496e2d626c7565" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/My-LinkedIn-blue" style="max-width: 100%;">](https://linkedin.com/in/ositaonyejekwe/)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCOgFy1DCWBFybvXP03RMNXw?style=social)](https://www.youtube.com/channel/UCOgFy1DCWBFybvXP03RMNXw)
+[![Twitter Follow](https://img.shields.io/twitter/follow/sacredcelestial?style=social)](https://twitter.com/sacredcelestial)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/ositaonyejekwe/)
+[![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/cubuffs)
+[![Dev.to Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://experts.colorado.edu/display/fisid_164235)
+
 
 - 🔭 I’m currently exploring the research related to **glacier and hydrology**
 

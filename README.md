@@ -1,4 +1,7 @@
 <h3 align="left">नमस्ते (Namaste) 🌳, I'm Osita Onyejekwe</h3>
+
+[<img src="https://camo.githubusercontent.com/dd9207aae8b652b023f5cf40711ad4536a4f9b41ca5136648b6c7dda52421da2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d792d4c696e6b6564496e2d626c7565" alt="LinkedIn Badge" data-canonical-src="https://img.shields.io/badge/My-LinkedIn-blue" style="max-width: 100%;">](https://linkedin.com/in/ositaonyejekwe/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sacredcelestial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sacredcelestial" height="30" width="40" /></a>

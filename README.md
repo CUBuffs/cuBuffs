@@ -7,7 +7,7 @@
 
 - 🤔I’m looking for help with **above mentioned topics**
 
-- 📫 How to reach me: **twitter: @sacredcelestia, youtube: @iheartscience, linkedin @ositaonyejekwe/**
+- 📫 How to reach me: **twitter: @sacredcelestial, youtube: @iheartscience, linkedin @ositaonyejekwe/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

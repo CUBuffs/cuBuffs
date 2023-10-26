@@ -8,7 +8,7 @@
 
 - 🤔I’m looking for help with **above mentioned topics**
 
-- 📫 How to reach me: **twitter: <a href="https://twitter.com/sacredcelestial">@sacredcelestial</a>, youtube: <a href="https://youtube.com/@iheartscience"> @iheartscience, linkedin: <a href="https://www.linkedin.com/in/ositaonyejekwe/"> @ositaonyejekwe/</a>**
+- 📫 How to reach me: **twitter: <a href="https://twitter.com/sacredcelestial">@sacredcelestial</a>, youtube: <a href="https://youtube.com/@iheartscience"> @iheartscience </a>, linkedin: <a href="https://www.linkedin.com/in/ositaonyejekwe/"> @ositaonyejekwe/</a>**
 
 
 <h3 align="left">Languages and Tools:</h3>

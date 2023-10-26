@@ -1,4 +1,5 @@
-<h1 align="left">नमस्ते Namaste 🌳, I'm Osita Onyejekwe</h1>
+<h1 align="left">नमस्ते (Namaste) 🌳, I'm Osita Onyejekwe</h1>
+
 - 🔭 I’m currently exploring the research related to **glacier and hydrology**
 
 - 👯 I’m looking to collaborate on any **geospatial/geoscience open source projects**

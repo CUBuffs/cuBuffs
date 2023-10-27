@@ -26,8 +26,7 @@
 - <a href="/display/pubid_281245" title="resource name">Climate Change Study via the Centennial Trend of Climate Factors</a> <em>Hydrology</em> <span class="listDateTime">2020</span> <img src="https://img.shields.io/badge/Published%20Version--blue.svg"> <img alt="Article has an altmetric score of 3" src="https://d1uo4w7k31k5mn.cloudfront.net/v1/3.png" width="110" height="20" style="border:0; margin:0; max-width: none;"> 
 - <a href="/display/pubid_247463" title="resource name">Degenerative Disc Disease in the Active Military Special Forces and the Financial Benefits of Early Detection Using a Quadruple Blind-Study</a> <em>Journal of Bioequivalence and Bioavailability</em> <span class="listDateTime">2018</span> <img src="https://img.shields.io/badge/Published%20Version--blue.svg">
 - <a href="/display/pubid_247462" title="resource name">Diagnoses of Young Trauma Victims with Disc Desiccation a Quadruple-Blind Methodology</a> <em>Journal of Bioequivalence and Bioavailability</em> <span class="listDateTime">2018</span> <img src="https://img.shields.io/badge/Published%20Version--blue.svg">
-- [leaflet-geoserver-request](https://github.com/iamtekson/leaflet-geoserver-request): This is the library for various kind of requests in lealflet using geoserver. 
-- [pysld](https://github.com/iamtekson/pySLD): The library is useful for generating the SLD file for raster as well as vector datasets. 
+- <a href="/display/pubid_247451" title="resource name">Multivariate models for predicting glacier termini</a> <em>Environmental Earth Sciences</em> <span class="listDateTime">2017</span> <img src="https://img.shields.io/badge/Published%20Version--blue.svg"> <img alt="Article has an altmetric score of 1" src="https://d1uo4w7k31k5mn.cloudfront.net/v1/1.png" width="110" height="20" style="border:0; margin:0; max-width: none;">
 
 
 ### Languages and Tools

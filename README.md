@@ -18,7 +18,7 @@
 
 
 ### Online courses
-- [Deep Learning Application for Earth Observation](https://www.udemy.com/course/deep-learning-application-for-earth-observation/?referralCode=B4655A8A918826871A40)
+- [Resampling, Selection and Splines](https://www.coursera.org/learn/resampling-selection-and-splines)
 - [Geospatial Data Analysis with Python](https://www.udemy.com/course/geospatial-data-analysis-with-python/?referralCode=5B58238C5392672D17B7)
 - [Web GIS development 2021](https://www.udemy.com/course/web-gis-development-2021/?referralCode=488F271341990F62FD05)
 - [Web mapping and Web-GIS from Dev to Deploy 2021: GeoDjango](https://www.udemy.com/course/web-mapping-and-web-gis-from-dev-to-deploy-2021-geodjango/?referralCode=14893C9BD7E7D959F865)

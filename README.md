@@ -6,7 +6,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/ositaonyejekwe/)
 [![Donate Badge](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellowgreen.svg)](https://www.buymeacoffee.com/cubuffs)
 
-- 👨‍🔬 I’m an Assisant Teaching Professor at the **University of Colorado Boulder, Department of Computer Science**
+- 👨‍🔬 I’m an Assistant Teaching Professor at the **University of Colorado Boulder, Department of Computer Science**
 
 - 🔭 I’m currently exploring the research related to **glacier and hydrology**
 

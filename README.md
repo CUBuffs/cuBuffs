@@ -17,7 +17,7 @@
 - 📫 How to reach me: **twitter: <a href="https://twitter.com/sacredcelestial">@sacredcelestial</a>, youtube: <a href="https://youtube.com/@iheartscience"> @iheartscience </a>, linkedin: <a href="https://www.linkedin.com/in/ositaonyejekwe/"> @ositaonyejekwe/</a>**
 
 
-### My Online courses
+### My Online Courses
 - [Resampling, Selection and Splines](https://www.coursera.org/learn/resampling-selection-and-splines)
 - [Trees, SVM and Unsupervised Learning](https://www.coursera.org/learn/trees-svm-and-unsupervised-learning)
 - [Statistical Learning for Data Science Specialization](https://www.coursera.org/specializations/statistical-learning-for-data-science)

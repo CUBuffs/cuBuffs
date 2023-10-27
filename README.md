@@ -20,14 +20,9 @@
 ### My Online courses
 - [Resampling, Selection and Splines](https://www.coursera.org/learn/resampling-selection-and-splines)
 - [Trees, SVM and Unsupervised Learning](https://www.coursera.org/learn/trees-svm-and-unsupervised-learning)
-- [Web GIS development 2021](https://www.udemy.com/course/web-gis-development-2021/?referralCode=488F271341990F62FD05)
-- [Web mapping and Web-GIS from Dev to Deploy 2021: GeoDjango](https://www.udemy.com/course/web-mapping-and-web-gis-from-dev-to-deploy-2021-geodjango/?referralCode=14893C9BD7E7D959F865)
-- [Introduction to Web Mapping and Web GIS](https://www.udemy.com/course/introduction-to-web-mapping-and-web-gis-2020-geodjango/?referralCode=72E09BDD6D9C8ECE2169)
-- [Elevation Data Processing In GIS](https://www.udemy.com/course/working-with-dem-data-in-gis/?referralCode=7F0AC3609C77546E7972)
-- [Application of Remote Sensing techniques](https://www.udemy.com/course/application-of-remote-sensing-techniques/?referralCode=01FA9AC41329E53B9FE6)
+- [Statistical Learning for Data Science Specialization](https://www.coursera.org/specializations/statistical-learning-for-data-science)
 
-
-### Open-source projects
+### Select Publications
 
 - [geotile](https://github.com/iamtekson/geotile): The geotile is the python package for management of the geospatial tiles for raster dataset.
 - [geoserver-rest](https://github.com/gicait/geoserver-rest): The geoserver-rest package is useful for the management of geospatial data in GeoServer. 

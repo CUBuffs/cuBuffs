@@ -16,6 +16,12 @@
 
 - 📫 How to reach me: **twitter: <a href="https://twitter.com/sacredcelestial">@sacredcelestial</a>, youtube: <a href="https://youtube.com/@iheartscience"> @iheartscience </a>, linkedin: <a href="https://www.linkedin.com/in/ositaonyejekwe/"> @ositaonyejekwe/</a>**
 
+### My Education
+
+- **PH.D.**,  Operations Research,  [*Florida Institute of Technology*](https://www.fit.edu/), Melbourne, FL
+- **M.Sc.**,  Applied Mathematics,  [*Florida Institute of Technology*](https://www.fit.edu/), Melbourne, FL
+- **B.Sc.**,  Environmental Engineering, [*Northern Arizona University*](https://nau.edu/), Flagstaff, AZ
+- **B.A.**,   Mathematics, [*New England College*](https://www.nec.edu/), Henniker, NH
 
 ### My Online Courses
 - [Resampling, Selection and Splines](https://www.coursera.org/learn/resampling-selection-and-splines)
@@ -28,15 +34,6 @@
 - [Degenerative Disc Disease in the Active Military Special Forces and the Financial Benefits of Early Detection Using a Quadruple Blind-Study](https://www.walshmedicalmedia.com/open-access/degenerative-disc-disease-in-the-active-military-special-forces-and-the-financial-benefits-of-early-detection-using-a-quadruple-bl-jbb-1000366.pdf) </a> <em>Journal of Bioequivalence and Bioavailability</em> <span class="listDateTime">2018</span> <img src="https://img.shields.io/badge/Published%20Version--blue.svg"> 
 - [Diagnoses of Young Trauma Victims with Disc Desiccation a Quadruple-Blind Methodology](https://www.walshmedicalmedia.com/open-access/diagnoses-of-young-trauma-victims-with-disc-desiccation-a-quadrupleblindmethodology-jbb-1000368.pdf) <em>Journal of Bioequivalence and Bioavailability</em> <span class="listDateTime">2018</span> <img src="https://img.shields.io/badge/Published%20Version--blue.svg">
 - [Multivariate models for predicting glacier termini](https://link.springer.com/article/10.1007/s12665-017-7135-2) <em>Environmental Earth Sciences</em> <span class="listDateTime">2017</span> <img src="https://img.shields.io/badge/Published%20Version--blue.svg"> <img alt="Article has an altmetric score of 1" src="https://d1uo4w7k31k5mn.cloudfront.net/v1/1.png" width="110" height="20" style="border:0; margin:0; max-width: none;">
-
-
-### My Education
-
-- **PH.D.**,  Operations Research,  [*Florida Institute of Technology*](https://www.fit.edu/), Melbourne, FL
-- **M.Sc.**,  Applied Mathematics,  [*Florida Institute of Technology*](https://www.fit.edu/), Melbourne, FL
-- **B.Sc.**,  Environmental Engineering, [*Northern Arizona University*](https://nau.edu/), Flagstaff, AZ
-- **B.A.**,   Mathematics, [*New England College*](https://www.nec.edu/), Henniker, NH
-
 
 ### Languages and Tools
 

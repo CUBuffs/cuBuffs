@@ -23,7 +23,7 @@
 
 ### My Education
 
-- **PH.D.**,  Operations Research,  [*Florida Institute of Technology*](https://www.fit.edu/), Melbourne, FL
+- **PH.D.**,  Applied Mathematics/Operations Research,  [*Florida Institute of Technology*](https://www.fit.edu/), Melbourne, FL
 - **M.Sc.**,  Applied Mathematics,  [*Florida Institute of Technology*](https://www.fit.edu/), Melbourne, FL
 - **B.Sc.**,  Environmental Engineering, [*Northern Arizona University*](https://nau.edu/), Flagstaff, AZ
 - **B.A.**,   Mathematics, [*New England College*](https://www.nec.edu/), Henniker, NH

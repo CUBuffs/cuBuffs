@@ -32,7 +32,7 @@
 - [Resampling, Selection and Splines](https://www.coursera.org/learn/resampling-selection-and-splines)
 - [Trees, SVM and Unsupervised Learning](https://www.coursera.org/learn/trees-svm-and-unsupervised-learning)
 - [Statistical Learning for Data Science Specialization](https://www.coursera.org/specializations/statistical-learning-for-data-science)
-- [Global Climate Change Policies and Analysis(https://www.coursera.org/learn/global-climate-change-policies-and-analysis)
+- [Global Climate Change Policies and Analysis](https://www.coursera.org/learn/global-climate-change-policies-and-analysis)
 - [Modeling Climate Anomalies with Statistical Analysis](https://www.coursera.org/learn/modeling-climate-anomalies-with-statistical-analysis)
 - [Predicting Extreme Climate Behavior with Machine Learning](https://www.coursera.org/learn/predicting-extreme-climate-behavior-with-machine-learning)
 

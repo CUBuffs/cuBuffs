@@ -13,7 +13,7 @@
   
 - 👨‍🔬 I’m an Assistant Teaching Professor at the **University of Colorado Boulder, Department of Computer Science**
 
-- 🔭 I’m currently exploring research related to **mountain glaciers and weather anomalies**
+- 🔭 I’m currently exploring research related to **cryptocurrency**
 
 - 👯 I’m looking to collaborate on any **geospatial/geoscience open source projects**
 

@@ -50,6 +50,4 @@
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cubuffs&show_icons=true&theme=radical)
 
-<p dir="auto"><strong>Visitors Count</strong></p>
-
-![Visitor Count](https://profile-counter.glitch.me/{cubuffs}/count.svg)
+![Visitor Count](https://visitor-badge.imlete.cn/?id=github.cubuffs&label=Profile%20Views&style=flat-square&labelColor=92400e&color=f59e0b)

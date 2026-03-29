@@ -82,15 +82,3 @@
 ---
 ## GitHub Stats
 
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=default"
-    alt="GitHub stats"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=default"
-    alt="Top languages"
-  />
-</p>

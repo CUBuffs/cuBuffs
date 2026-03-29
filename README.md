@@ -84,7 +84,8 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default"
+    width="495"
+    src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&hide_border=false&include_all_commits=true"
     alt="GitHub stats"
   />
 </p>

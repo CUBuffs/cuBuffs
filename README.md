@@ -83,8 +83,6 @@
 ## 🚀 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cubuffs&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&cache_seconds=1800" height="180"/>
-  &nbsp;
   <img src="https://streak-stats.demolab.com?user=cubuffs&theme=radical&hide_border=true" height="180"/>
 </p>
 

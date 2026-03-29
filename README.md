@@ -83,7 +83,17 @@
 ## 🚀 GitHub Activity
 
 <p align="center">
+  <img src="https://github-readme-stats-git-main-traqmedowns-projects.vercel.app/api?username=cubuffs&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" height="180"/>
+  &nbsp;
   <img src="https://streak-stats.demolab.com?user=cubuffs&theme=radical&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-main-traqmedowns-projects.vercel.app/api/top-langs/?username=cubuffs&layout=compact&count_private=true&theme=radical&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cubuffs&theme=react-dark&hide_border=true"/>
 </p>
 
 <p align="center">

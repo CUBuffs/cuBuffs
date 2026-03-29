@@ -25,13 +25,9 @@
 ---
 
 - 👨‍🔬 I'm an Associate Teaching Professor at the **University of Colorado Boulder, Department of Computer Science**
-
 - 🔭 I'm currently exploring research related to **cryptocurrency**
-
-- 👯 I'm looking to collaborate on any **geospatial/geoscience open source projects**
-
-- 🤔 I'm looking for help with **above mentioned topics**
-
+- 👯 I'm looking to collaborate on **geospatial/geoscience open source projects**
+- 🤔 I'm looking for help with **the above topics**
 - 📫 How to reach me: **Twitter:** [@sacredcelestial](https://twitter.com/sacredcelestial) · **YouTube:** [@iheartscience](https://youtube.com/@iheartscience) · **LinkedIn:** [@ositaonyejekwe](https://www.linkedin.com/in/ositaonyejekwe/)
 
 ---
@@ -58,10 +54,10 @@
 
 ### Select Publications
 
-- [Climate Change Study via the Centennial Trend of Climate Factors](https://www.mdpi.com/2306-5338/7/2/25) — *Hydrology* (2020) [![Published](https://img.shields.io/badge/Published-blue?style=flat-square)](https://www.mdpi.com/2306-5338/7/2/25)
-- [Degenerative Disc Disease in the Active Military Special Forces and the Financial Benefits of Early Detection Using a Quadruple Blind-Study](https://www.walshmedicalmedia.com/open-access/degenerative-disc-disease-in-the-active-military-special-forces-and-the-financial-benefits-of-early-detection-using-a-quadruple-bl-jbb-1000366.pdf) — *Journal of Bioequivalence and Bioavailability* (2018) [![Published](https://img.shields.io/badge/Published-blue?style=flat-square)](https://www.walshmedicalmedia.com/open-access/degenerative-disc-disease-in-the-active-military-special-forces-and-the-financial-benefits-of-early-detection-using-a-quadruple-bl-jbb-1000366.pdf)
-- [Diagnoses of Young Trauma Victims with Disc Desiccation a Quadruple-Blind Methodology](https://www.walshmedicalmedia.com/open-access/diagnoses-of-young-trauma-victims-with-disc-desiccation-a-quadrupleblindmethodology-jbb-1000368.pdf) — *Journal of Bioequivalence and Bioavailability* (2018) [![Published](https://img.shields.io/badge/Published-blue?style=flat-square)](https://www.walshmedicalmedia.com/open-access/diagnoses-of-young-trauma-victims-with-disc-desiccation-a-quadrupleblindmethodology-jbb-1000368.pdf)
-- [Multivariate models for predicting glacier termini](https://link.springer.com/article/10.1007/s12665-017-7135-2) — *Environmental Earth Sciences* (2017) [![Published](https://img.shields.io/badge/Published-blue?style=flat-square)](https://link.springer.com/article/10.1007/s12665-017-7135-2)
+- [Climate Change Study via the Centennial Trend of Climate Factors](https://www.mdpi.com/2306-5338/7/2/25) — *Hydrology* (2020)
+- [Degenerative Disc Disease in the Active Military Special Forces and the Financial Benefits of Early Detection Using a Quadruple Blind-Study](https://www.walshmedicalmedia.com/open-access/degenerative-disc-disease-in-the-active-military-special-forces-and-the-financial-benefits-of-early-detection-using-a-quadruple-bl-jbb-1000366.pdf) — *Journal of Bioequivalence and Bioavailability* (2018)
+- [Diagnoses of Young Trauma Victims with Disc Desiccation a Quadruple-Blind Methodology](https://www.walshmedicalmedia.com/open-access/diagnoses-of-young-trauma-victims-with-disc-desiccation-a-quadrupleblindmethodology-jbb-1000368.pdf) — *Journal of Bioequivalence and Bioavailability* (2018)
+- [Multivariate models for predicting glacier termini](https://link.springer.com/article/10.1007/s12665-017-7135-2) — *Environmental Earth Sciences* (2017)
 
 ---
 
@@ -85,8 +81,22 @@
 
 ---
 
+### GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cubuffs&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180" style="vertical-align:middle"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cubuffs&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true" alt="GitHub Stats" height="180" />
   &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cubuffs&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cubuffs&layout=compact&count_private=true&theme=radical&hide_border=true" alt="Top Languages" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cubuffs&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
   <img src="https://visitor-badge.imlete.cn/?id=github.cubuffs&label=Profile%20Views&style=flat-square&labelColor=374151&color=6366f1" alt="Visitor Count" height="28" style="vertical-align:middle"/>
 </p>

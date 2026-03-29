@@ -80,5 +80,11 @@
 </p>
 
 ---
-## GitHub Stats
+## 🚀 GitHub Stats
+
+<p align="center">
+  <a href="https://github-readme-stats-git-main-traqmedowns-projects.vercel.app/api?username=cubuffs">
+    View my live Vercel GitHub stats card
+  </a>
+</p>
 

@@ -83,3 +83,15 @@
 ## 🚀 GitHub Stats
 
 https://github-readme-stats-git-main-traqmedowns-projects.vercel.app/api?username=cubuffs
+
+## 🚀 GitHub Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=cubuffs&theme=radical&hide_border=true" height="180" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <a href="https://github-readme-stats-git-main-traqmedowns-projects.vercel.app/api?username=cubuffs">
+    View my live GitHub stats card
+  </a>
+</p>

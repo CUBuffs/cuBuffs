@@ -83,9 +83,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cubuffs&theme=react-dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.imlete.cn/?id=github.cubuffs&label=Profile%20Views&style=flat-square&labelColor=374151&color=6366f1" height="28"/>
+  <img src="https://komarev.com/ghpvc/?username=cubuffs&style=flat-square&color=6366f1" height="28"/>
 </p>

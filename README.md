@@ -130,5 +130,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-main-traqmedowns-projects.vercel.app/api?username=cubuffs&v=2" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cubuffs&show_icons=true&theme=radical" />
 </p>

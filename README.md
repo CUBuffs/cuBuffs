@@ -126,9 +126,9 @@
 ## 🚀 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=cubuffs&theme=radical&hide_border=true" height="180" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=cubuffs&theme=radical&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cubuffs&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-git-main-traqmedowns-projects.vercel.app/api?username=cubuffs&v=2" />
 </p>
